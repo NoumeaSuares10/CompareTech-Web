@@ -1,0 +1,2 @@
+noumea:Admin
+manasa:Admin
